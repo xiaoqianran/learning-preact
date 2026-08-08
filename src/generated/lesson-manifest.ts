@@ -63,5 +63,5 @@ export const MANIFEST_META = {
   total: 52,
   courseApprox: 52,
   referenceApprox: 13,
-  generatedAt: "2026-08-08T19:25:14.531Z",
+  generatedAt: "2026-08-08T19:28:36.214Z",
 } as const;
