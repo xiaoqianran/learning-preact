@@ -1,0 +1,4 @@
+# learning-preact
+
+Interactive Chinese Preact tutorial site.
+Official Preact docs: https://preactjs.com/
